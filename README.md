@@ -28,6 +28,6 @@ The dataset used in this project is related to **Bike Sales**, which includes va
 This Power BI project is part of a course powered by **Udemy**, designed to help learners master data visualization and business intelligence skills.
 
 ## 📷 Dashboard Preview  
-![Bike Sales Analysis] (https://github.com/user-attachments/assets/a842b370-e559-4663-ba1a-1a07ada97679)
+![Bike Sales Analysis](https://github.com/user-attachments/assets/a842b370-e559-4663-ba1a-1a07ada97679)
 
 
